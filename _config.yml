@@ -3,7 +3,7 @@ subtitle: FEAR ME RAHHHHHHH
 description: >- # this means to ignore newlines until "baseurl:"
   My Heart My Art My Artery What Do You Want? MORE 
 
-url: "https://thyspacebeer.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
